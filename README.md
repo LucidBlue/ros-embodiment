@@ -5,7 +5,7 @@ an external directory meant to be built as a subdirectory of OpenCog
 *very* minor changes to CMakeLists.txt in opencog/ subdirectory
 
 
-see "ros-embodiment-testing" branch of my fork of OpenCog at:
+see "ros-embodiment-test" branch of my fork of OpenCog at:
 
   https://github.com/LucidBlue/opencog
 
